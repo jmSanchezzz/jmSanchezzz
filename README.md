@@ -20,4 +20,4 @@ New Era University<br>
     
 <h2>Let's Connect!</h2>
 <p><strong>LinkedIn:</strong> <a href="#">Your LinkedIn Profile</a><br>
-<strong>Email:</strong> <a href="mailto:sanchezjm76@gmail.com@gmail.com">sanchezjm76@gmail.com@gmail.com</a></p>
+<strong>Email:</strong> <a href="mailto:sanchezjm76@gmail.com">sanchezjm76@gmail.com</a></p>
