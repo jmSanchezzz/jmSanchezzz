@@ -1,6 +1,6 @@
 <h1>Hi there, I'm John Marc Sanchez🖐</h1>
 <p>I am passionate about coding and adept in managing databases. I thrive on solving intricate problems and architecting elegant solutions. My journey in tech commenced with the 85 Information Technology program.</p>
-    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmSanchezzz)](https://github.com/jmSanchezzz/github-readme-stats)
 <h2>Education</h2>
 <p><strong>BS Computer Science</strong><br>
 New Era University<br>
