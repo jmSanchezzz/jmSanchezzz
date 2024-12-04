@@ -60,29 +60,28 @@
 <h2>💻 Skill Set</h2>
 
 <div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>🛠️ Category</th>
-        <th>💡 Skills</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Programming Languages</strong></td>
-        <td>Java, Python, HTML, SQL</td>
-      </tr>
-      <tr>
-        <td><strong>Databases</strong></td>
-        <td>IBM DB2 Cloud, SQL</td>
-      </tr>
-      <tr>
-        <td><strong>Tools & Technologies</strong></td>
-        <td>Lucidchart, Jaspersoft Studio, Eclipse</td>
-      </tr>
-    </tbody>
-  </table>
+  <h3>🚀 Programming Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java Badge"/>
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML Badge"/>
+    <img src="https://img.shields.io/badge/SQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="SQL Badge"/>
+  </p>
+
+  <h3>📊 Databases</h3>
+  <p>
+    <img src="https://img.shields.io/badge/IBM%20DB2-%2300545E.svg?style=flat&logo=ibm&logoColor=white" alt="IBM DB2 Badge"/>
+    <img src="https://img.shields.io/badge/SQL-%234169E1.svg?style=flat&logo=mysql&logoColor=white" alt="SQL Badge"/>
+  </p>
+
+  <h3>🛠 Tools & Technologies</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Lucidchart-%23F88C00.svg?style=flat&logo=lucidchart&logoColor=white" alt="Lucidchart Badge"/>
+    <img src="https://img.shields.io/badge/Jaspersoft-%23223A66.svg?style=flat&logo=apache&logoColor=white" alt="Jaspersoft Badge"/>
+    <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=flat&logo=eclipse&logoColor=white" alt="Eclipse Badge"/>
+  </p>
 </div>
+
 
 ---
 
