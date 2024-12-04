@@ -1,20 +1,12 @@
 <h1 align="center">Hi there, I'm <span style="color:#FF5733;">John Marc Sanchez</span>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" alt="Waving hand"></h1>
 
-<p align="center" style="font-size: 1.2rem; color: #FFBD69; animation: glow 1.5s infinite alternate;">
-✨ Computer Science Student ✨
+<p align="center">
+✨ Passionate Computer Science Student | Aspiring Software Developer | Lifelong Learner ✨
 </p>
 
-<style>
-@keyframes glow {
-  0% {
-    text-shadow: 0 0 10px #FF5733, 0 0 20px #FF5733, 0 0 30px #FF5733, 0 0 40px #FFC300, 0 0 50px #FFC300, 0 0 60px #FFC300;
-  }
-  100% {
-    text-shadow: 0 0 20px #FFC300, 0 0 30px #FFC300, 0 0 40px #FF5733, 0 0 50px #FF5733, 0 0 60px #FF5733;
-  }
-}
-</style>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Let's+build+something+amazing!;Never+stop+learning+%F0%9F%9A%80" alt="Typing SVG">
+</div>
 
 
 <div align="center">
