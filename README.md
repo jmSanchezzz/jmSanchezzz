@@ -57,12 +57,32 @@
 
 ---
 
-<h2>💻 Skill Sets</h2>
-<ul>
-    <li><strong>Programming:</strong> Java, Python, HTML</li>
-    <li><strong>Databases:</strong> IBM DB2 Cloud</li>
-    <li><strong>Tools:</strong> Lucidchart, Jaspersoft Studio, Eclipse</li>
-</ul>
+<h2>💻 Skill Set</h2>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>🛠️ Category</th>
+        <th>💡 Skills</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Programming Languages</strong></td>
+        <td>Java, Python, HTML, SQL</td>
+      </tr>
+      <tr>
+        <td><strong>Databases</strong></td>
+        <td>IBM DB2 Cloud, SQL</td>
+      </tr>
+      <tr>
+        <td><strong>Tools & Technologies</strong></td>
+        <td>Lucidchart, Jaspersoft Studio, Eclipse</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
