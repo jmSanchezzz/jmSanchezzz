@@ -12,6 +12,7 @@
 
 <h2>Certifications</h2>
 <ul>
+    <li><a href="https://drive.google.com/file/d/1esiw_gtfQjs6rJlP8O2v7FidecgN8Q3j/view?usp=sharing">Basic Training on Cybersecurity and Capture-the-Flag Competition</a></li>
     <li><a href="https://courses.cognitiveclass.ai/certificates/6d85742191544dfea0dd93ca0da178bf">SQL and Relational Databases 101</a></li>
     <li><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C33418A20500C8FAE9EDD29DEA8B12678B64D47B7E7DC0DAAD30FB99FB9FB9A5">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a></li>
 </ul>
