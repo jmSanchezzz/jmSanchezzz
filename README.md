@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#FF5733;">John Marc Sanchez</span>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" alt="Waving hand"></h1>
 
 <p align="center">
-✨ Passionate Computer Science Student | Aspiring Software Developer | Lifelong Learner ✨
+✨ Passionate Computer Science Student✨
 </p>
 
 <div align="center">
