@@ -31,7 +31,7 @@
     <thead>
         <tr>
             <th>📜 Certification</th>
-            <th>🏢 Issuer</th>
+            <th>🏢 Issued by</th>
             <th>🔗 Link</th>
         </tr>
     </thead>
