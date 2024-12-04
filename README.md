@@ -13,12 +13,13 @@
 <h2>Certifications</h2>
 <ul>
     <li><a href="https://courses.cognitiveclass.ai/certificates/6d85742191544dfea0dd93ca0da178bf">SQL and Relational Databases 101</a></li>
+    <li><a href="https://drive.google.com/file/d/1-AL1_DH34nimzdRvE3qC9tljnqcmvSx8/view?usp=drive_link">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a></li>
 </ul>
 
 <h2>Skill Sets</h2>
 <p><strong>Programming:</strong> Java, Python, HTML<br>
    <strong>Databases:</strong> IBM DB2 Cloud<br>
-   <strong>Tools:</strong> Lucidchart, Jaspersoft Studio, Eclipse, HTML</p>
+   <strong>Tools:</strong> Lucidchart, Jaspersoft Studio, Eclipse</p>
     
 <h2>Let's Connect!</h2>
 <p><strong>LinkedIn:</strong> <a href="#">Your LinkedIn Profile</a><br>
