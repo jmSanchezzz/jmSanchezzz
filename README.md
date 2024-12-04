@@ -1,8 +1,20 @@
-<h1 align="center">Hi there, I'm John Marc Sanchez! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm <span style="color:#FF5733;">John Marc Sanchez</span>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" alt="Waving hand"></h1>
 
-<p align="center">Passionate Computer Science Student | Lifelong Learner</p>
+<p align="center" style="font-size: 1.2rem; color: #FFBD69; animation: glow 1.5s infinite alternate;">
+✨ Passionate Computer Science Student | Aspiring Software Developer | Lifelong Learner ✨
+</p>
 
----
+<style>
+@keyframes glow {
+  0% {
+    text-shadow: 0 0 10px #FF5733, 0 0 20px #FF5733, 0 0 30px #FF5733, 0 0 40px #FFC300, 0 0 50px #FFC300, 0 0 60px #FFC300;
+  }
+  100% {
+    text-shadow: 0 0 20px #FFC300, 0 0 30px #FFC300, 0 0 40px #FF5733, 0 0 50px #FF5733, 0 0 60px #FF5733;
+  }
+}
+</style>
+
 
 <div align="center">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jmSanchezzz&show_icons=true&theme=radical" width="48%"/>
