@@ -51,6 +51,11 @@
             <td>Oracle</td>
             <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C33418A20500C8FAE9EDD29DEA8B12678B64D47B7E7DC0DAAD30FB99FB9FB9A5" target="_blank">View Certificate</a></td>
         </tr>
+       <tr>
+            <td>Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</td>
+            <td>Oracle</td>
+            <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C33418A20500C8FAE9EDD29DEA8B1267ACA641DAE680207405E659852709470B" target="_blank">View Certificate</a></td>
+        </tr>
     </tbody>
 </table>
 
